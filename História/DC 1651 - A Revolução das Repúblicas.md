@@ -1,0 +1,4 @@
+Em questão de meses, praticamente todas as monarquias britânicas foram depostas pela [[República Terrana]]. Gerações inteiras de monarcas foram dizimadas, e as monarquias além-mar romperam todas as relações com a recém-formada república.
+
+Logo em seguida, uma onda de revoluções varreu toda a Britannia, restaurando o trono para mais da metade dos antigos monarcas, evento que ficou conhecido como a [[DC 1652 - A Retomada Monarca]]. Atualmente, a [[República Terrana]] persiste, mas teve que fazer concessões significativas a empresas mercantis, monarquias e até impérios além-mar para manter sua presença no cenário político. Contudo, a relação com os monarcas britânicos é tensa, e a iminência de um novo conflito paira sobre o país a qualquer momento.
+ 

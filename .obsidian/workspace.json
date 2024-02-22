@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7d4506cf0e8639c",
+        "id": "b363a55483bdd6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "c254051caab7f8e1",
+            "id": "6f924699c8ac72b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Fumbus.md",
+                "file": "1ª Sessão - Calouros.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "5719bf99b8fe1197",
+        "id": "a621c9a4512809df",
         "type": "tabs",
         "children": [
           {
-            "id": "d268ed7434c0c0af",
+            "id": "1ecf0647a5b9a73e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Fumbus.md",
+                "file": "1ª Sessão - Calouros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Fumbus.md",
+                "file": "1ª Sessão - Calouros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Fumbus.md"
+                "file": "1ª Sessão - Calouros.md"
               }
             }
           }
@@ -160,11 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c254051caab7f8e1",
+  "active": "1ecf0647a5b9a73e",
   "lastOpenFiles": [
-    "Campanha.md",
-    "Personagens/Fumbus.md",
+    "1ª Sessão - Calouros.md",
+    "2ª Sessão - Orientações.md",
+    "3ª Sessão - Execução.md",
+    "Personagens/Alunos/_Grupo desconhecido/Brad.md",
+    "4ª Sessão - Algo começa.md",
+    "Itens/Orbe de Lettus.md",
+    "Itens",
+    "Locais/Universitas Infinita/Sala de Isaque.md",
+    "Personagens/Shiraba.md",
+    "Personagens/Professores/Quinn.md",
+    "Locais/Universitas Infinita/Biblioteca.md",
+    "Personagens/Professores/Lettus.md",
+    "Personagens/Professores/Fumbus.md",
+    "Personagens/Professores/Isaque.md",
+    "Personagens/Professores/Ezren.md",
+    "Personagens/Alunos/N2/Viel.md",
+    "Personagens/Alunos/N2/Sharon.md",
+    "Personagens/Alunos/N2/Glim.md",
+    "Personagens/Alunos/N2/Eliziana.md",
+    "Personagens/Alunos/N2/Ealdred.md",
+    "Personagens/Alunos/C4/Zeca.md",
+    "Locais/Universitas Infinita/Jardim Coberto.md",
+    "Personagens/Alunos/_Grupo desconhecido",
+    "Personagens/Alunos/C4",
+    "Personagens/Alunos/N2",
+    "História/DC 1651 - A Revolução das Repúblicas.md",
+    "História/BC 43 - Invasão Romana à Britânia.md",
+    "Locais/Britânia.md",
+    "_Figuras/world_map_new.png",
+    "Locais/República Terrana.md",
+    "História/DC 1652 - A Retomada Monarca.md",
+    "História",
+    "_Figuras/main_yard.jpg",
+    "Locais/Universitas Infinita",
     "Locais",
-    "Personagens"
+    "_Figuras/isaque_portrait.png",
+    "_Figuras/portrait_white_bg.png",
+    "_Figuras/ezren-portrait.png",
+    "_Figuras/portrait_new.png",
+    "_Figuras/viel-portrait.png",
+    "_Figuras/portrait.png",
+    "_Figuras/sharon-portrait.png",
+    "_Figuras/portrait_bg.png",
+    "Personagens/Professores",
+    "Personagens/Alunos",
+    "_Figuras"
   ]
 }

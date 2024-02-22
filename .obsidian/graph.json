@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Sessão  ",
+      "color": {
+        "a": 1,
+        "rgb": 10722811
+      }
+    },
+    {
+      "query": "tag:#aluno  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084218
+      }
+    },
+    {
+      "query": "tag:#professor  ",
+      "color": {
+        "a": 1,
+        "rgb": 16108544
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 2.703125,
+  "collapse-forces": false,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 13.2291666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "linkDistance": 67,
+  "scale": 0.5087618855792614,
+  "close": false
 }

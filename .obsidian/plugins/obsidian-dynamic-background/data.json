@@ -1,0 +1,7 @@
+{
+  "dynamicEffect": 3,
+  "digitalRainBrightness": 0.7,
+  "enableDynamicEffect": true,
+  "backgroundImageFile": "_Figuras/port_view-bg.png",
+  "blur": 4
+}
