@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1ª Sessão - Calouros.md",
+                "file": "Personagens/Alunos/N2/Viel.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a621c9a4512809df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ecf0647a5b9a73e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ª Sessão - Calouros.md",
+                "file": "Personagens/Alunos/N2/Viel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ª Sessão - Calouros.md",
+                "file": "Personagens/Alunos/N2/Viel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1ª Sessão - Calouros.md"
+                "file": "Personagens/Alunos/N2/Viel.md"
               }
             }
           }
@@ -160,31 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ecf0647a5b9a73e",
+  "active": "6f924699c8ac72b3",
   "lastOpenFiles": [
-    "1ª Sessão - Calouros.md",
-    "2ª Sessão - Orientações.md",
-    "3ª Sessão - Execução.md",
-    "Personagens/Alunos/_Grupo desconhecido/Brad.md",
-    "4ª Sessão - Algo começa.md",
-    "Itens/Orbe de Lettus.md",
-    "Itens",
-    "Locais/Universitas Infinita/Sala de Isaque.md",
-    "Personagens/Shiraba.md",
-    "Personagens/Professores/Quinn.md",
-    "Locais/Universitas Infinita/Biblioteca.md",
-    "Personagens/Professores/Lettus.md",
-    "Personagens/Professores/Fumbus.md",
-    "Personagens/Professores/Isaque.md",
-    "Personagens/Professores/Ezren.md",
+    "Personagens/Alunos/B2/Beck.md",
     "Personagens/Alunos/N2/Viel.md",
     "Personagens/Alunos/N2/Sharon.md",
     "Personagens/Alunos/N2/Glim.md",
     "Personagens/Alunos/N2/Eliziana.md",
     "Personagens/Alunos/N2/Ealdred.md",
+    "Personagens/Professores/Quinn.md",
+    "Personagens/Professores/Lettus.md",
+    "Personagens/Professores/Isaque.md",
+    "Personagens/Professores/Fumbus.md",
+    "Personagens/Professores/Ezren.md",
+    "1ª Sessão - Calouros.md",
+    "2ª Sessão - Orientações.md",
+    "3ª Sessão - Execução.md",
+    "4ª Sessão - Algo começa.md",
+    "Itens/Orbe de Lettus.md",
+    "Itens",
+    "Locais/Universitas Infinita/Sala de Isaque.md",
+    "Personagens/Shiraba.md",
+    "Locais/Universitas Infinita/Biblioteca.md",
     "Personagens/Alunos/C4/Zeca.md",
     "Locais/Universitas Infinita/Jardim Coberto.md",
-    "Personagens/Alunos/_Grupo desconhecido",
+    "Personagens/Alunos/B2",
     "Personagens/Alunos/C4",
     "Personagens/Alunos/N2",
     "História/DC 1651 - A Revolução das Repúblicas.md",
