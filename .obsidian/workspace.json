@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b363a55483bdd6d1",
-        "type": "tabs",
+        "id": "e152e62c408565de",
+        "type": "split",
         "children": [
           {
-            "id": "6f924699c8ac72b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1ª Sessão - Calouros.md",
-                "mode": "source",
-                "source": false
+            "id": "b363a55483bdd6d1",
+            "type": "tabs",
+            "dimension": 56.201550387596896,
+            "children": [
+              {
+                "id": "6f924699c8ac72b3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1ª Sessão - Calouros.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "6c0cdbeb5dec9862",
+            "type": "tabs",
+            "dimension": 43.798449612403104,
+            "children": [
+              {
+                "id": "6ba3d3423dd29d2c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "a621c9a4512809df",
@@ -29,8 +52,12 @@
             "id": "1ecf0647a5b9a73e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Alunos/N2/Eliziana.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1ª Sessão - Calouros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1ª Sessão - Calouros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1ª Sessão - Calouros.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ecf0647a5b9a73e",
+  "active": "6ba3d3423dd29d2c",
   "lastOpenFiles": [
-    "1ª Sessão - Calouros.md",
     "2ª Sessão - Orientações.md",
+    "Personagens/Alunos/N2/Eliziana.md",
+    "1ª Sessão - Calouros.md",
     "3ª Sessão - Execução.md",
     "Personagens/Alunos/_Grupo desconhecido/Brad.md",
     "4ª Sessão - Algo começa.md",
@@ -180,7 +204,6 @@
     "Personagens/Alunos/N2/Viel.md",
     "Personagens/Alunos/N2/Sharon.md",
     "Personagens/Alunos/N2/Glim.md",
-    "Personagens/Alunos/N2/Eliziana.md",
     "Personagens/Alunos/N2/Ealdred.md",
     "Personagens/Alunos/C4/Zeca.md",
     "Locais/Universitas Infinita/Jardim Coberto.md",
