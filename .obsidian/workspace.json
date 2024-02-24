@@ -8,21 +8,14 @@
         "type": "split",
         "children": [
           {
-            "id": "b363a55483bdd6d1",
-            "type": "tabs",
-            "dimension": 56.201550387596896,
-            "children": [
-              {
-                "id": "6f924699c8ac72b3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1ª Sessão - Calouros.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "6f924699c8ac72b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Alunos/N2/Viel.md",
+                "mode": "source",
+                "source": false
               }
             ]
           },
@@ -40,25 +33,6 @@
                 }
               }
             ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "a621c9a4512809df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ecf0647a5b9a73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Alunos/N2/Eliziana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -126,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personagens/Alunos/N2/Viel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personagens/Alunos/N2/Viel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personagens/Alunos/N2/Viel.md"
+              }
             }
           }
         ]
@@ -183,31 +161,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ba3d3423dd29d2c",
+  "active": "6f924699c8ac72b3",
   "lastOpenFiles": [
+    "Personagens/Alunos/N2/Viel.md",
+    "Personagens/Alunos/B2/Beck.md",
+    "Personagens/Alunos/N2/Sharon.md",
+    "Personagens/Alunos/N2/Glim.md",
+    "Personagens/Alunos/N2/Eliziana.md",
+    "Personagens/Alunos/N2/Ealdred.md",
+    "Personagens/Professores/Quinn.md",
+    "Personagens/Professores/Lettus.md",
+    "Personagens/Professores/Isaque.md",
+    "Personagens/Professores/Fumbus.md",
+    "Personagens/Professores/Ezren.md",
+    "1ª Sessão - Calouros.md",
     "2ª Sessão - Orientações.md",
     "Personagens/Alunos/N2/Eliziana.md",
     "1ª Sessão - Calouros.md",
     "3ª Sessão - Execução.md",
-    "Personagens/Alunos/_Grupo desconhecido/Brad.md",
     "4ª Sessão - Algo começa.md",
     "Itens/Orbe de Lettus.md",
     "Itens",
     "Locais/Universitas Infinita/Sala de Isaque.md",
     "Personagens/Shiraba.md",
-    "Personagens/Professores/Quinn.md",
     "Locais/Universitas Infinita/Biblioteca.md",
-    "Personagens/Professores/Lettus.md",
-    "Personagens/Professores/Fumbus.md",
-    "Personagens/Professores/Isaque.md",
-    "Personagens/Professores/Ezren.md",
-    "Personagens/Alunos/N2/Viel.md",
-    "Personagens/Alunos/N2/Sharon.md",
-    "Personagens/Alunos/N2/Glim.md",
-    "Personagens/Alunos/N2/Ealdred.md",
     "Personagens/Alunos/C4/Zeca.md",
     "Locais/Universitas Infinita/Jardim Coberto.md",
-    "Personagens/Alunos/_Grupo desconhecido",
+    "Personagens/Alunos/B2",
     "Personagens/Alunos/C4",
     "Personagens/Alunos/N2",
     "História/DC 1651 - A Revolução das Repúblicas.md",
